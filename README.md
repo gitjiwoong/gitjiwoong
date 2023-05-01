@@ -1,3 +1,5 @@
+# gitjiwoong
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name : Choijiwoong
+Age : 28
+Sex : Male
+Habit : Soccer
+
+
